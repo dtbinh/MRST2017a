@@ -1,0 +1,32 @@
+Attachments to Master's Thesis:
+
+  Numerical Aspects of Flow Based Local Upscaling
+  Lars Vingli Odsæter, NTNU, January 2013.
+
+
+This directory contains models used for numerical computations in the thesis.
+
+Contents:
+
+Section 6.1:
+  - simpleLayeredUniform.grdecl		Simple uniform layered model
+  - non-periodicTilted.grdecl		Non-periodic tilted model
+  - periodicTilted.grdecl		Periodic tilted model
+
+Section 6.2:
+  - testModel1.grdecl			Test model 1 (TM1)
+  - testModel2.grdecl			Test model 2 (TM2)
+
+Section 6.3:
+  - file_list.txt			List of rock files for TM1*
+  - rock_files/				Rock files containing input curves for TM1*
+
+Section 6.4**:
+  - mortarTestModel.grdecl		Realistic test model
+
+
+* The rock files are also valid for TM2.
+
+** The models referred to as 'simple uniform homogeneous model' and 
+'simple uniform layered model' in the thesis, were constructed by 
+routines provided by the OPM module dune-cornerpoint.

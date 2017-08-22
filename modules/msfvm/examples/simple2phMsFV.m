@@ -3,7 +3,7 @@
 % regular pressure solver for incompressible transport. This example
 % demonstrates a two phase solver on a 2D grid.
 
-mrstModule add coarsegrid msfvm incomp msrsb
+mrstModule add coarsegrid msfvm incomp msrsb matlab_bgl
 %% Construct simple 2D Cartesian test case
 nx = 50; ny = 50;
 Nx = 5; Ny = 5;

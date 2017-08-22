@@ -1,0 +1,13 @@
+12
+./rock_files/rock1.txt
+./rock_files/rock2.txt
+./rock_files/rock3.txt
+./rock_files/rock4.txt
+./rock_files/rock5.txt
+./rock_files/rock6.txt
+./rock_files/rock7.txt
+./rock_files/rock8.txt
+./rock_files/rock9.txt
+./rock_files/rock10.txt
+./rock_files/rock11.txt
+./rock_files/rock12.txt

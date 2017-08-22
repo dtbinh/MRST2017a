@@ -129,7 +129,8 @@ for i = 1:20
     solutions{i} = sol;
     delete(hs)
     hs = plotCellData(G, sol.s(:,2), sol.s(:,2)>0.05);
-    drawnow, pause(.5)
+    drawnow
+    pause(.5)
 end
 
 %% Alternatively, use plotGridVolumes for the same purpose
